@@ -18,7 +18,6 @@ import torch
 from core.data_loader import get_train_loader
 from core.data_loader import get_test_loader
 from core.solver import Solver
-"hello"
 
 def str2bool(v):
     return v.lower() in ('true')
